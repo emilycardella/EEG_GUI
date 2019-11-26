@@ -1,6 +1,6 @@
 # Homework 5 & 6
 Peter Stilian, Donald Christensen, Emily Cardella, Mary Wilson  
-Brain Computer Interfaces (CIS 4930)  
+Brain Computer Interfaces (CIS 4930.003)  
 
 We used the following languages:
 * NodeJS
