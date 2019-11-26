@@ -1,6 +1,7 @@
 # Homework 5 & 6
 Peter Stilian, Donald Christensen, Emily Cardella, Mary Wilson  
 Brain Computer Interfaces (CIS 4930)  
+
 We used the following languages:
 * NodeJS
 * Python
@@ -18,4 +19,4 @@ Step 3 -
 ```
 
 ## API Documentation
-For Cortex V2 API documentations please check out: https://emotiv.gitbook.io/cortex-api/
+For Cortex V2 API documentations please check out: https://emotiv.gitbook.io/cortex-api
