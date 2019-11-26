@@ -8,8 +8,7 @@ We used the following languages:
 * Python (README file)
 
 ## How to Run
-/*Steps for running the code:*/ 
-/*Delete line above when complete*/
+//Steps for running the code: Delete this line when complete  
 ```
 Step 1 -
 ```
