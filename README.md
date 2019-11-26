@@ -1,6 +1,6 @@
 # Homework 5 & 6
-Peter Stilian, Donald Christensen, Emily Cardella, Mary Wilson
-Homework 5 and Homework 6 for BCI (CIS 4930)
+Peter Stilian, Donald Christensen, Emily Cardella, Mary Wilson  
+Homework 5 and Homework 6 for BCI (CIS 4930)  
 We used the following languages:
 * NodeJS
 * Python
