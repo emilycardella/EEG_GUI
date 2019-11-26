@@ -8,7 +8,7 @@ We used the following languages:
 * Python (README file)
 
 ## How to Run
-Steps to the code:   
+Steps to run the code:   
 ```
 Step 1 -
 ```
