@@ -35,4 +35,4 @@ If not go to [emotiv website](https://emotiv.com) to create a new pair of client
 * [Peter Stilian](https://github.com/pstilian)
 * [Donald Christianson](https://github.com/Donaldc354)
 * [Mary Wilson](https://github.com/mwilson18)
-* Emily Cardella
+* Emily Cardella(https://github.com/emilycardella)
